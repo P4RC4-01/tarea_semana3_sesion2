@@ -1,0 +1,21 @@
+
+
+.herencia{
+    color: rgb(124, 31, 218);
+    font-size: 25px;
+}
+
+
+p {
+    color: red;
+}
+
+p{
+    color:blue;
+}
+
+
+.especificidad {
+    color:gold;
+    font-size: 25px;
+}
